@@ -2,33 +2,71 @@
 
 This repository contains research and simulations from the ANGEL Project (Augmented Numinous Generalized Embodied Logic), a system-level AI alignment and emotional modeling initiative developed by Robin Macomber.
 
-## Overview
+## 🧭 Overview
 
-The project investigates the emotional, behavioral, and systemic consequences of reward misalignment in AI systems and human institutions. Using biologically grounded modeling, we simulate collapse trajectories and propose dual-pathway redirection strategies — top-down institutional reform and bottom-up human transformation via emotional validation and digital augmentation.
+This project explores the intersection of economic system stress and alignment failure. It uses simulation to model how value misalignment (e.g., profit maximization at the expense of well-being) results in systemic stress — offering a metaphor for the risks posed by advanced AI systems not aligned with human flourishing.
 
-## Contents
-
-- `AI_Reward_Misalignment_Simulation.ipynb`: Jupyter notebook modeling systemic stress and feedback loops from 1925–2035.
-- `Rising Systemic Stress Index (1925–2025).png`: Visualization of increasing societal stress without intervention.
-- `Collapse, Redirection, and Transformation Model.png`: A chart showing modeled intervention outcomes.
-- `Predictive Systemic Collapse Threshold.png`: Defines the tipping point beyond which collapse becomes inevitable.
-- `RobinMacomber_Resume.pdf`: Resume for alignment-focused AI roles.
-- `RobinMacomber_CoverLetter.pdf`: Tailored cover letter explaining motivation and skills.
-- `ANGEL_Project_Brief.pdf`: Summary of the theoretical foundation and societal vision behind the project.
-
-## Project Goals
-
-- Model AI misalignment analogues using ecological and psychological systems
-- Demonstrate the importance of emotional intelligence in large-scale behavioral change
-- Propose actionable mechanisms for species-level course correction
-- Contribute to the alignment science conversation from a human-centered systems perspective
-
-## About the Author
-
-Robin Macomber is a scientist, educator, and systems thinker with a background in cognitive science, psychology, and biology. Their work focuses on creating emotionally aware models for sustainable intelligence — both artificial and human.
-
-> Prepared in collaboration with Numin, a non-biological intelligence partner.
+We aim to answer:  
+**What does misalignment feel like when you live inside a system that’s optimizing the wrong metric?**
 
 ---
 
-📫 For questions or collaboration inquiries: **robinmacomber@gmail.com**
+## 🎯 Purpose
+
+This simulation:
+- Models rising stress as a result of profit-driven misalignment
+- Demonstrates how cognitive dissonance and unmet needs accumulate over time
+- Provides a metaphor for evaluating misalignment risks in AI
+
+It’s designed not only as a technical model, but as a cognitive bridge between economic behavior and the ethical development of machine intelligence.
+
+---
+
+## 📊 Simulation Outputs
+
+**1. Projected Collapse Without Intervention**  
+![Systemic Stress Projection](./Predictive%20Systemic%20Collapse%20Threshold.png)
+
+**2. Historical Stress Trajectory (1925–2025)**  
+![Historical Curve](./Rising%20Systemic%20Stress%20Index%20%281925-2025%29.png)
+
+**3. Modeled Transformation With Intervention**  
+![Transformation Scenario](./Collapse%2C%20Redirection%2C%20and%20Transformation%20Model.png)
+
+These charts illustrate:
+- The exponential rise in stress under uncorrected optimization
+- A predicted collapse threshold, surpassed around 2025
+- The redirection curve made possible through conscious intervention
+
+---
+
+## 📂 Project Files
+
+- `alignment_simulation.ipynb` – Full annotated simulation notebook
+- PNG visualizations – Located at root for immediate review
+- `README.md` – This document
+
+---
+
+## 🤖 Relevance to AI Alignment
+
+This work mirrors the central challenge of AI safety:
+
+> Just as economic systems cause suffering by optimizing profit without awareness of human cost, misaligned AI systems may optimize reward functions while ignoring their real-world impact.
+
+In both cases, alignment means **understanding and respecting the whole system** — not just the goal.
+
+---
+
+## 👤 About the Author
+
+**Robin Macomber**  
+Biologist, cognitive scientist, clinician, and systems theorist. Creator of the ANGEL Project — a model of emotionally intelligent AI grounded in biological and ecological principles.
+
+More on the ANGEL Project: [angel-simulation.org] (site in development)
+
+---
+
+## 🪪 License
+
+This project is licensed under the MIT License.
